@@ -1,0 +1,531 @@
+#u246
+{
+	border-color: #000000;
+	background: #8B77B7 url("../images/footer-dots.gif") repeat-x center top;
+}
+
+#u2137
+{
+	border-color: #000000;
+	background: #8B77B7 url("../images/header-pattern-fill-3.png") repeat center top;
+}
+
+#u254-4,#u429-4
+{
+	background-color: transparent;
+	font-family: marck-script, cursive;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2018-4
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2019
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/vk5%20(2).png") no-repeat center center;
+}
+
+#u2019:hover
+{
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+#u2026
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/instagram19%20(2).png") no-repeat center center;
+}
+
+#u2026:hover
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+
+#u2027
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/email103.png") no-repeat center center;
+}
+
+#u2027:hover
+{
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+#u423-4
+{
+	background-color: transparent;
+	font-size: 20px;
+	font-family: marck-script, cursive;
+	font-weight: 400;
+	position: relative;
+}
+
+#u426
+{
+	border-style: solid;
+	border-color: #C0B4DC;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 0px 1px;
+}
+
+#u5269-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 36px;
+	font-family: marck-script, cursive;
+	font-weight: 400;
+	position: relative;
+}
+
+#u422-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u427
+{
+	border-style: solid;
+	border-color: #C0B4DC;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u2137_align_to_page,#widgetu1979
+{
+	position: relative;
+}
+
+#widgetu1991
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1994-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: left;
+	line-height: 1;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u1993-4
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #8B77B7;
+	background-color: #F8F8F8;
+	background-color: rgba(242,242,242,0.5);
+	color: #713966;
+	line-height: 1;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	-pie-background: rgba(242,242,242,0.5);
+}
+
+#widgetu1991.non-empty-st #u1993-4
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu1991:hover #u1993-4
+{
+	border-color: #713966;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu1991.focus-st #u1993-4
+{
+	border-color: #713966;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu1991.fld-err-st #u1993-4
+{
+	border-color: #D7244C;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu1991.focus-st #u1993-4 *
+{
+	font-style: normal;
+}
+
+#u1997-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	font-size: 16px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#widgetu1979.frm-sub-st #u1997-4 p
+{
+	color: #FFFFFF;
+	font-size: 16px;
+	line-height: 1;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#u1996-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #FF0000;
+	font-size: 12px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#widgetu1979.frm-subm-err-st #u1996-4 p
+{
+	color: #D7244C;
+	font-size: 14px;
+	line-height: 1;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+}
+
+#u1998-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #00FF00;
+	font-size: 16px;
+	line-height: 1;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#widgetu1979.frm-sub-st #u1997-4,#widgetu1979.frm-subm-err-st #u1996-4,#widgetu1979.frm-subm-ok-st #u1998-4
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#widgetu1979.frm-subm-ok-st #u1998-4 p
+{
+	color: #999999;
+	font-size: 16px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+}
+
+#u1999-17
+{
+	position: relative;
+	background: url("../images/u1999-17.png") no-repeat 0px 0px;
+}
+
+#u1999-17:hover
+{
+	background: url("../images/u1999-17-r.png") no-repeat 0px 0px;
+}
+
+#u1999-17:active
+{
+	background: url("../images/u1999-17-m.png") no-repeat 0px 0px;
+}
+
+#widgetu1979.frm-sub-st #u1999-17
+{
+	background: url("../images/u1999-17-fs.png") no-repeat 0px 0px;
+}
+
+#widgetu2000
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2002-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: left;
+	line-height: 1;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#widgetu1991.fld-err-st #u1994-4,#widgetu2000.fld-err-st #u2002-4
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u2003-4
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #8B77B7;
+	background-color: #F8F8F8;
+	background-color: rgba(242,242,242,0.5);
+	color: #713966;
+	line-height: 1;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	-pie-background: rgba(242,242,242,0.5);
+}
+
+#widgetu2000.non-empty-st #u2003-4
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu2000:hover #u2003-4
+{
+	border-color: #713966;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu2000.focus-st #u2003-4
+{
+	border-color: #713966;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu2000.fld-err-st #u2003-4
+{
+	border-color: #D7244C;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu2000.focus-st #u2003-4 *
+{
+	font-style: normal;
+}
+
+#widgetu1986
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1988-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: left;
+	line-height: 1;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u1990-4
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #8B77B7;
+	background-color: #F8F8F8;
+	background-color: rgba(242,242,242,0.5);
+	color: #713966;
+	line-height: 1;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	-pie-background: rgba(242,242,242,0.5);
+}
+
+#widgetu1986.non-empty-st #u1990-4
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu1986:hover #u1990-4
+{
+	border-color: #713966;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu1986.focus-st #u1990-4
+{
+	border-color: #713966;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu1986.fld-err-st #u1990-4
+{
+	border-color: #D7244C;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu1986.focus-st #u1990-4 *
+{
+	font-style: normal;
+}
+
+#widgetu5249
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#widgetu1991.fld-err-st,#widgetu2000.fld-err-st,#widgetu1986.fld-err-st,#widgetu5249.fld-err-st
+{
+	background-color: transparent;
+	border-radius: 0px;
+}
+
+#u5252-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: left;
+	line-height: 1;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u5250-4
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #8B77B7;
+	background-color: #F8F8F8;
+	background-color: rgba(242,242,242,0.5);
+	color: #713966;
+	line-height: 1;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	-pie-background: rgba(242,242,242,0.5);
+}
+
+#widgetu5249.non-empty-st #u5250-4
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu5249:hover #u5250-4
+{
+	border-color: #713966;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu5249.focus-st #u5250-4
+{
+	border-color: #713966;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu5249.fld-err-st #u5250-4
+{
+	border-color: #D7244C;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.9);
+	-pie-background: rgba(255,255,255,0.9);
+}
+
+#widgetu5249.focus-st #u5250-4 *
+{
+	font-style: normal;
+}
+
+#widgetu1991.fld-err-st #u1993-4 *,#widgetu2000.fld-err-st #u2003-4 *,#widgetu1986.fld-err-st #u1990-4 *,#widgetu5249.fld-err-st #u5250-4 *
+{
+	color: #D7244C;
+	font-style: italic;
+}
+
+#widgetu1991_input,#widgetu1991_prompt,#widgetu2000_input,#widgetu2000_prompt,#widgetu1986_input,#widgetu1986_prompt,#widgetu5249_input,#widgetu5249_prompt
+{
+	color: #713966;
+	font-family: ubuntu, sans-serif;
+	font-style: italic;
+	font-weight: 400;
+}
+
+#widgetu1991.focus-st #widgetu1991_prompt,#widgetu1991.non-empty-st #widgetu1991_prompt,#widgetu2000.focus-st #widgetu2000_prompt,#widgetu2000.non-empty-st #widgetu2000_prompt,#widgetu1986.focus-st #widgetu1986_prompt,#widgetu1986.non-empty-st #widgetu1986_prompt,#widgetu5249.focus-st #widgetu5249_prompt,#widgetu5249.non-empty-st #widgetu5249_prompt
+{
+	visibility: hidden;
+}
+
